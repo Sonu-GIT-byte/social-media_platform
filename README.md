@@ -12,6 +12,28 @@ Project Structure
  script.js               # JavaScript for validation and interactivity
  README.md               # Documentation for the project
 
+Features
+
+#Login Page
+Semantic HTML structure for user authentication.
+Form fields for email and password.
+Dynamic error messages for invalid inputs.
+
+#Registration Page
+Includes fields for username, email, and password.
+Password strength validation (minimum 6 characters).
+
+#Responsive Design
+Styled with Bootstrap 5 for responsiveness across all screen sizes.
+A clean and modern user interface.
+
+#Interactive Form Validation
+Real-time validation for all input fields.
+Custom error messages for incorrect or missing input.
+
+#Easy Integration
+Simple folder structure for quick integration into larger projects.
+Lightweight and modular design.
 
 #Registration: Users should provide an email, username, and password (maybe a phone number for verification).
 #Login/Logout: Once registered, users should be able to log in and log out securely.
