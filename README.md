@@ -6,11 +6,11 @@ connect with ease..
 #User Authentication: Allow users to sign up, log in, and log out.
 
 Project Structure
-├── login.html              # Login page
-├── registration.html       # Registration page
-├── styles.css              # CSS styles for the project
-├── script.js               # JavaScript for validation and interactivity
-└── README.md               # Documentation for the project
+ login.html              # Login page
+ registration.html       # Registration page
+ styles.css              # CSS styles for the project
+ script.js               # JavaScript for validation and interactivity
+ README.md               # Documentation for the project
 
 
 #Registration: Users should provide an email, username, and password (maybe a phone number for verification).
