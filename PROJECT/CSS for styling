@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+}
+
+.card {
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+h1, h3 {
+    color: #333;
+}
+
+.btn-block {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.text-center a {
+    color: #007bff;
+}
+
+.text-center a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 600px;
+}
